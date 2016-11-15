@@ -32,6 +32,6 @@
     <extension name='eventtrackingmodel' />
     <extension name='hybrisanalyticsaddon' />
      <extension name='voucher' />
-
+<!-- my -->
   </extensions>
 </hybrisconfig>
